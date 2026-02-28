@@ -26,6 +26,9 @@ bash
 git clone https://github.com/oumaima2024/smart-energy-management-ai.git
 cd smart-energy-management-ai
 
+## Demo
+You can view an interactive demo of the dashboard here: [Demo Link](https://drive.google.com/drive/folders/1MgeoRf0VOU--mA2LkDQXCco2MgZBflYZ)
+
 # 2. Create virtual environment
 python -m venv venv
 # Windows
