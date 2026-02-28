@@ -37,5 +37,5 @@ python Fixmodel.py
 python app.py
 
 # 6. Start dashboard (in another terminal)
-cd frontend
-streamlit run app.py
+
+streamlit run Dashboard.py
